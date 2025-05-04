@@ -12,7 +12,7 @@ This project is an end-to-end personal finance tracker that processes raw financ
 ## 📁 Project Structure
 
 - clean_data.py → Cleans and processes raw data
-- load_to_sql.py → Loads data into SQLite database/
+- load_to_sql.py → Loads data into SQLite database
 - finance.db → SQLite database
 - dashboard.pbix → Power BI Dashboard
 - dashboard.twb → Tableau Dashboard
